@@ -178,7 +178,7 @@ The following are the 3 aspects of database performance measurement and monitori
 
 * **Alerting** - When one or many metrics of the database infrastructure is not within a normal or acceptable range, an alert should be generated so that the team responsible for the appropriate portion of the database infrastructure can investigate and remedy it.
 
-Monitoring and measurement for this solution are covered by [Percona Monitoring and Management](https://www.percona.com/software/database-tools/percona-monitoring-and-management). It has a specific dashboard to monitor the Group Replication state and cluster status as a whole. For more information, read [Percona Monitoring and Management Documentation](https://www.percona.com/blog/2021/04/14/percona-distribution-for-mysql-high-availability-with-group-replication-solution/).
+Monitoring and measurement for this solution are covered by [Percona Monitoring and Management](https://www.percona.com/software/database-tools/percona-monitoring-and-management). It has a specific dashboard to monitor the Group Replication state and cluster status as a whole. For more information, read [Percona Monitoring and Management Documentation](hhttps://docs.percona.com/percona-monitoring-and-management/index.html).
 
 ## Deployment
 
